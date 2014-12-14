@@ -9,7 +9,7 @@
 
 
 
-package InfoProject;
+
 
 import com.mongodb.BasicDBList;
 import com.mongodb.BasicDBObject;
